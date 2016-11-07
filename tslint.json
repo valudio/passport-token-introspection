@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "quotemark": [
+      "single"
+    ],
+    "eofline": true,
+    "object-literal-sort-keys": false,
+    "no-string-literal": false,
+    "curly": false
+  }
+}
