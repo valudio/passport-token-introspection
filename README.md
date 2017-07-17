@@ -1,5 +1,7 @@
 # Passport Token Introspection Strategy
 
+[![NPM](https://nodei.co/npm/passport-token-introspection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/passport-token-introspection/)
+
 It will expect: 
 
   - token: the value of the token.
